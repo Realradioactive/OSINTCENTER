@@ -6,12 +6,11 @@
 						OSINT CENTER
   						OSINT CENTER
     </p>
+	This tool provides email, username, phone and dark mode email (username password) password information as a result of osint search.
 
-  	 Bu araç twitch veya streamlabs üzerinden yayına verilen chat veya benzeri pencereleri oyun sırasında görmenize olanak sağlar.
-  	 (Veya tek ekranla yayın yapan yayıncıların oyun sırasında ekranlarında chati de görmesini sağlar) 
-   
- 	  This tool allows you to see chat or similar windows broadcast on Twitch or Streamlabs during the game.
-  	 (Or it allows broadcasters broadcasting with a single screen to see the chat on their screens during the game)
+	Installation:
+	Install .net framework x86 and x64 bit.
+  	 
                                          By RealRadioActive           
                                  https://realradioactive.github.io/ 
                                  https://github.com/Realradioactive
@@ -20,7 +19,7 @@
 	Donate - ETH -: 0xb22323451e63cF6b7D4C2C3Fe4939Fe8D5b4483D 	
  	For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
 	   
-	Bu araç email , kullanıcı adı, telefon ve dark modda e mail(kullanıcı adı şifre) şifre bilgisini osint ile vermektedir.
+	Bu araç email , kullanıcı adı, telefon ve dark modda e mail(kullanıcı adı şifre) şifre bilgisini osint araştırması sonucu vermektedir.
 
 	Kurulum:
 	.net fremework x86 ve x64 bit i kurun.
@@ -63,7 +62,7 @@ Github üzerinden normal şekilde indirip osintcenterexe yi çalıştırarak kul
 <p align="center">
 	#### Usage
 
-	Step 0 - Run the program (osintcenter.exe
+	Step 0 - Run the program (osintcenter.exe)
 	Step 1- First specify the content you want to search from the options on the top right (email, phone, etc.)
 	Step 2- Then fill in the search box and click on the 2nd button on the left side of the search box, the scan will start.
 	Step 3- Click on the first button on the left side of the search box to save the results to a file.
