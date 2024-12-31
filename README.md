@@ -3,8 +3,8 @@
     
 
 
-		OSINT CENTER
-  		OSINT CENTER
+						OSINT CENTER
+  						OSINT CENTER
     </p>
 
   	 Bu araç twitch veya streamlabs üzerinden yayına verilen chat veya benzeri pencereleri oyun sırasında görmenize olanak sağlar.
@@ -18,16 +18,18 @@
 	
 	Donate - BTC -: 1QByZjKJzTqiqKdWLRRsKDu1RFNAF7YD1S 
 	Donate - ETH -: 0xb22323451e63cF6b7D4C2C3Fe4939Fe8D5b4483D 	
- 	 For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
+ 	For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
 	   
-	  Bu araç email , kullanıcı adı, telefon ve dark modda e mail(kullanıcı adı şifre) şifre bilgisini osint ile vermektedir.
+	Bu araç email , kullanıcı adı, telefon ve dark modda e mail(kullanıcı adı şifre) şifre bilgisini osint ile vermektedir.
 
 	Kurulum:
 	.net fremework x86 ve x64 bit i kurun.
-		
-		Donate - BTC -: 1QByZjKJzTqiqKdWLRRsKDu1RFNAF7YD1S 
-		Donate - ETH -: 0xb22323451e63cF6b7D4C2C3Fe4939Fe8D5b4483D 	
-    	  For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
+		 			 By RealRadioActive           
+                                 https://realradioactive.github.io/ 
+                                 https://github.com/Realradioactive
+	Donate - BTC -: 1QByZjKJzTqiqKdWLRRsKDu1RFNAF7YD1S 
+	Donate - ETH -: 0xb22323451e63cF6b7D4C2C3Fe4939Fe8D5b4483D 	
+    	For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
 </p>
 
 
@@ -35,8 +37,8 @@
 
 ![Screenshot_9](https://github.com/user-attachments/assets/a39647c9-7c8f-44f7-8351-d0aaec6789c0)
 ![Screenshot_10](https://github.com/user-attachments/assets/08934c31-5684-4589-a3e9-367f85ee3234)
-![Screenshot_11](https://github.com/user-attachments/assets/04d2961b-e2bf-4747-93df-ea866febf888)
 ![Screenshot_14](https://github.com/user-attachments/assets/f38bab7c-3e23-40cf-a25a-b2a5e531df2a)
+![Screenshot_11](https://github.com/user-attachments/assets/04d2961b-e2bf-4747-93df-ea866febf888)
 ![Screenshot_13](https://github.com/user-attachments/assets/e7b9614e-e5bc-4778-ac0f-cbd8a740d7f9)
 ![Screenshot_15](https://github.com/user-attachments/assets/49c0cba9-124b-4503-9940-be39ad497b75)
 
