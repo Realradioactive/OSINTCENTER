@@ -31,7 +31,13 @@ Kurulum:
 
 
 
-![yn1](https://github.com/Realradioactive/chatmonitor/assets/61369603/9b316bc1-c5ea-44aa-b503-f76bfca07290)
+
+![Screenshot_9](https://github.com/user-attachments/assets/a39647c9-7c8f-44f7-8351-d0aaec6789c0)
+![Screenshot_10](https://github.com/user-attachments/assets/08934c31-5684-4589-a3e9-367f85ee3234)
+![Screenshot_11](https://github.com/user-attachments/assets/04d2961b-e2bf-4747-93df-ea866febf888)
+![Screenshot_13](https://github.com/user-attachments/assets/e7b9614e-e5bc-4778-ac0f-cbd8a740d7f9)
+![Screenshot_14](https://github.com/user-attachments/assets/f38bab7c-3e23-40cf-a25a-b2a5e531df2a)
+![Screenshot_15](https://github.com/user-attachments/assets/49c0cba9-124b-4503-9940-be39ad497b75)
 
 ---
 
