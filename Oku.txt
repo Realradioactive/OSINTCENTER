@@ -1,0 +1,18 @@
+Kurulum:
+Kurulum gerektirmiyor, exe yi açarak kullanabilirsiniz.
+
+Eğer program açılmazsa Yükle klasöründeki sisteminiz 32 bit ise dotnet-sdk-6.0.422-win-x86
+64 bit ise otnet-sdk-6.0.422-win-x64 ü kurun.
+Program net.fremework 6 ve üstü ile çalışmaktadır, bu nedenle net fremework olmadan programı kullanamazsınız.
+
+
+Kullanım:
+Programı kullanmak için osintcenter.exe yi çalıştırınız gerekli arama bölümünü seçip(örneğin kullanıcıadı V1) daha sonra
+arama butonuna basınız.
+
+
+
+Not:Eğer program aktif arama yaparken arama bitmeden kapatırsanız (bu durumda hemen programı açıp
+tekrar aynı modül ile tarama yapamazsınız) aramanın tamamlanması
+gerekir 2-3 dakika bekleyip tekrar programı açıp arama yapın(Arka planda programdan çıksanız dahi
+tarama yapmaya devam edecektir)
