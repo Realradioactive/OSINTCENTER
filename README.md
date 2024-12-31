@@ -5,28 +5,29 @@
 
 		OSINT CENTER
   		OSINT CENTER
+    </p>
 
-   Bu araç twitch veya streamlabs üzerinden yayına verilen chat veya benzeri pencereleri oyun sırasında görmenize olanak sağlar.
-   (Veya tek ekranla yayın yapan yayıncıların oyun sırasında ekranlarında chati de görmesini sağlar) 
+  	 Bu araç twitch veya streamlabs üzerinden yayına verilen chat veya benzeri pencereleri oyun sırasında görmenize olanak sağlar.
+  	 (Veya tek ekranla yayın yapan yayıncıların oyun sırasında ekranlarında chati de görmesini sağlar) 
    
-   This tool allows you to see chat or similar windows broadcast on Twitch or Streamlabs during the game.
-   (Or it allows broadcasters broadcasting with a single screen to see the chat on their screens during the game)
+ 	  This tool allows you to see chat or similar windows broadcast on Twitch or Streamlabs during the game.
+  	 (Or it allows broadcasters broadcasting with a single screen to see the chat on their screens during the game)
                                          By RealRadioActive           
                                  https://realradioactive.github.io/ 
                                  https://github.com/Realradioactive
 	
 	Donate - BTC -: 1QByZjKJzTqiqKdWLRRsKDu1RFNAF7YD1S 
 	Donate - ETH -: 0xb22323451e63cF6b7D4C2C3Fe4939Fe8D5b4483D 	
-  For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
+ 	 For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
 	   
 	  Bu araç email , kullanıcı adı, telefon ve dark modda e mail(kullanıcı adı şifre) şifre bilgisini osint ile vermektedir.
 
-Kurulum:
-.net fremework x86 ve x64 bit i kurun.
+	Kurulum:
+	.net fremework x86 ve x64 bit i kurun.
 		
 		Donate - BTC -: 1QByZjKJzTqiqKdWLRRsKDu1RFNAF7YD1S 
 		Donate - ETH -: 0xb22323451e63cF6b7D4C2C3Fe4939Fe8D5b4483D 	
-      For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
+    	  For donation(TRC20- USDT) : TLiYNmfB6A5AnhWrXDRe3saVuzddLCNa5A		
 </p>
 
 
